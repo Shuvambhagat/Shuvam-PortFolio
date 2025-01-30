@@ -1,6 +1,6 @@
 # Shuvam Portfolio
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5a55e891-6f9c-4b1c-9581-3dc282d01bbf)
 
 
 This is my personal portfolio website built with React.
