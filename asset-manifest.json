@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shuvambhagat/My-portfolio.git/static/css/main.f841500b.css",
+    "main.js": "/Shuvambhagat/My-portfolio.git/static/js/main.d9c96832.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Shuvambhagat/My-portfolio.git/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Picsart_24-06-05_22-02-59-622.jpg": "/Shuvambhagat/My-portfolio.git/static/media/Picsart_24-06-05_22-02-59-622.f8318f9a4e5a906bd690.jpg",
+    "static/media/bg-light.png": "/Shuvambhagat/My-portfolio.git/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Shuvambhagat/My-portfolio.git/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Texteditor.jpg": "/Shuvambhagat/My-portfolio.git/static/media/Texteditor.46d651d48ad1c734c4dd.jpg",
+    "static/media/Chatbotai.png": "/Shuvambhagat/My-portfolio.git/static/media/Chatbotai.fab1561ee0ad62ca142d.png",
+    "static/media/Healthcare.png": "/Shuvambhagat/My-portfolio.git/static/media/Healthcare.94ffaae1db90eccb6b84.png",
+    "static/media/whatsappchat.png": "/Shuvambhagat/My-portfolio.git/static/media/whatsappchat.447a5648302da9db76df.png",
+    "static/media/EmployeeCrud.png": "/Shuvambhagat/My-portfolio.git/static/media/EmployeeCrud.bc55a88949350236ed24.png",
+    "index.html": "/Shuvambhagat/My-portfolio.git/index.html",
+    "main.f841500b.css.map": "/Shuvambhagat/My-portfolio.git/static/css/main.f841500b.css.map",
+    "main.d9c96832.js.map": "/Shuvambhagat/My-portfolio.git/static/js/main.d9c96832.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Shuvambhagat/My-portfolio.git/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f841500b.css",
+    "static/js/main.d9c96832.js"
+  ]
+}
